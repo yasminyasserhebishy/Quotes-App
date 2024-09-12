@@ -1,0 +1,35 @@
+*{
+    font-family: "SUSE", sans-serif;
+}
+.mainDiv{
+   background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(162, 195, 233, 1) 100%);
+    color: #295F98;
+}
+h1{
+    font-size: 70px;
+}
+.quoteP{
+    font-size: 20px;
+}
+.quoteDiv{
+    background-color: white;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    color: #295F98;
+
+}
+button {
+background-color: #295F98;
+color: white;
+border-radius: 4px;
+padding: 7px;
+margin-top: 10px;
+}
+button:hover {
+   color: #295F98;
+    background-color: white;
+}
